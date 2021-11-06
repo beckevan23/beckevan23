@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beckevan23
 - 👀 I’m interested in back-end development.
-- 🌱 I’m currently using "The Odin Project" and "Python Crash Course" book by Eric Matthes to start learning what I'm doing.
+- 🌱 I’m currently using "The Odin Project" and a variety of programming books/sites to start learning what I'm doing.
 - 📫 You can email me at evan.beck23@gmail.com.
 
 <!---
